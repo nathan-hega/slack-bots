@@ -1,0 +1,40 @@
+{
+  "gitbot": {
+    "orginization": "https://api.github.com/orgs/test-github-organization-api/",
+    "teams": {
+      "team-alpha": {
+        "repositories": [
+        ],
+        "members": [
+          "nathan-hega",
+          "example_username2",
+          "example_username3"
+        ]
+      },
+      "team-bravo": {
+        "repositories": [
+          "repository-three"
+        ],
+        "members": [
+          "nathan-hega"
+        ]
+      }
+    },
+    "repositories": [
+    ],
+    "colors": {
+      "normal" : {
+        "range": [0, 2],
+        "color": "#98FB98"
+      },
+      "warning" : {
+        "range": [3, 5],
+        "color": "#FFFF99"
+      },
+      "danger" : {
+        "range": [6],
+        "color": "#FF6A6A"
+      }
+    }
+  }
+}
