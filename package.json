@@ -2,8 +2,8 @@
   "name": "slack-bots",
   "version": "1.0.0",
   "private": false,
-  "repository": "TODO",
-  "license": "TODO",
+  "repository": "https://github.com/nathan-hega/slack-bots",
+  "license": "MIT",
   "scripts": {
     "start": "node app.js"
   },
