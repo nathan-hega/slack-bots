@@ -9,7 +9,11 @@ A Node.js / Express server that integrates with [Slack slash commands](https://a
 - Gitbot
 - Definebot
 
-*Please note that this codebase was started years ago and only recently updated to expand the functionality. It is based on Slack 'Slash Commands' which Slack considers a "legacy custom integration".*
+*Please note that this codebase was started years ago and only recently updated to expand the functionality. It is based on a "legacy custom integration" rather than the new "Slack app".*
+
+
+From the Slack website:
+> You're viewing documentation on legacy custom integrations, an older way for teams to build into their Slack team. To securely utilize the newest platform features like message buttons & the Events API, build internal integrations as part of a Slack app just for your team instead. Get started.
 
 For those not familiar with Slack or slash commands, here is the basic premise of Slack slash commands:
 1. Configure a slash command in Slack
